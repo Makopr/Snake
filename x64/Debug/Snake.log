@@ -1,0 +1,103 @@
+﻿  main.cpp
+  ChangeName.cpp
+D:\Snake\Snake\src\ChangeName.cpp(23,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Game.cpp
+  GameOver.cpp
+D:\Snake\Snake\src\GameOver.cpp(26,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\GameOver.cpp(34,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\GameOver.cpp(43,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\GameOver.cpp(52,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GamePlay.cpp
+D:\Snake\Snake\src\GamePlay.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Snake\Snake\src\GamePlay.cpp(43,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\GamePlay.cpp(47,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\GamePlay.cpp(50,95): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\GamePlay.cpp(50,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\GamePlay.cpp(143,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Snake\Snake\src\GamePlay.cpp(143,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MainMenu.cpp
+D:\Snake\Snake\src\MainMenu.cpp(30,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\MainMenu.cpp(39,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\MainMenu.cpp(66,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  PauseGame.cpp
+D:\Snake\Snake\src\PauseGame.cpp(24,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\PauseGame.cpp(23,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  TableScore.cpp
+D:\Snake\Snake\src\TableScore.cpp(27,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\TableScore.cpp(36,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\TableScore.cpp(45,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Snake\Snake\src\TableScore.cpp(54,61): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  Snake.vcxproj -> D:\Snake\x64\Debug\Snake.exe
